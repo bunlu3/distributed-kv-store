@@ -8,11 +8,11 @@ It implements **consistent hashing**, **replication**, and **quorum-based reads/
 
 ## 🚀 Features
 
-- 🌀 **Consistent hashing ring** for scalable key distribution
-- 🔌 **TCP-based node-to-node communication**
-- 📦 **Replication** with tunable **quorum (W+R > N)** logic
-- ❤️‍🔥 **Heartbeat-based failure detection**
-- 🧪 **Simulated clients** and **dynamic recovery** of failed nodes
+-  **Consistent hashing ring** for scalable key distribution
+-  **TCP-based node-to-node communication**
+-  **Replication** with tunable **quorum (W+R > N)** logic
+-  **Heartbeat-based failure detection**
+-  **Simulated clients** and **dynamic recovery** of failed nodes
 
 ---
 
